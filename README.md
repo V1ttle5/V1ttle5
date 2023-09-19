@@ -1,10 +1,10 @@
-<h1 align="center">About Me</h1>
+<h1 align="center"><b>About Me</b></h1>
 <pre>
 - 👋 Hi, I’m @V1ttle5
 - 👀 I’m interested in: GameDev
-- 🌱 I’m currently learning: C++, Java, and HTML 5
+- 🌱 I’m currently learning: C++, C++++, And Java
 - 💞️ I’m looking to collaborate on: Nothing at the moment
-- 📫 How to reach me: <b>You don't</b>... just kidding <b><i>XD</i></b>, here <a href="mailto:vittlesdev+git@gmail.com">gmail</a>
+- 📫 How to reach me: <b>You don't</b>... just kidding <b><i>XD</i></b>, here is my <a href="mailto:vittlesdev+git@gmail.com">E-mail</a>
 </pre>
 <!---
 V1ttle5/V1ttle5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
